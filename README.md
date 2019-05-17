@@ -14,3 +14,11 @@ There are changes to Jonas's iteration of the web app that will be noted.
 
 1. Added a gradient background to the app
 
+#### Features I would like to implement
+
+1. Make it mobile responsive
+    - add toggle functionality to see income/expenses tab on mobile
+2. Store the data using databases
+    - create user authentication
+    - allow each user to scroll through past months and see history
+3. Display analytics of user spending history
