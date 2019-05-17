@@ -413,8 +413,7 @@ let controller = (function (budgetCtrl, UICtrl) {
             UICtrl.displayBudget(budgetController.getBudget())
             setupEventListeners();
             UICtrl.displayMonth();
-            value = UICtrl.getDOMstrings().inputValue
-            document.querySelector(value).set
+
         }
     };
 
